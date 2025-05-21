@@ -7,7 +7,7 @@
 🛠️ **Skills & Tools**  
 - SQL (PostgreSQL, SQLite, Beekeeper Studio)  
 - Tableau (dashboards, KPI visualization)  
-- Excel, Google Sheets (ETL & cleaning)  
+- Excel, Google Sheets (ELT & cleaning)  
 - Python (in progress...)  
 - Canva, PowerPoint (data storytelling)
 
