@@ -8,7 +8,7 @@
 - SQL (PostgreSQL, SQLite, Beekeeper Studio)  
 - Tableau (dashboards, KPI visualization)  
 - Excel, Google Sheets (ELT & cleaning)  
-- Python (in progress...)  
+- Python 
 - Canva, PowerPoint (data storytelling)
 
 📍 Based in Berlin | Learning German 🇩🇪
