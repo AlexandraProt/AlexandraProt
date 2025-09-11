@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Alexandra!
+# 👋 Hi there, I'm Oleksandra!
 
 🎯 I'm a data analyst with a background in digital marketing and 15+ years of experience helping brands grow.
 
